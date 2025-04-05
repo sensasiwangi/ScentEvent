@@ -19,5 +19,8 @@
     "midtrans-client": "^1.4.2",
     "openai": "^4.91.1",
     "supabase": "^2.20.5"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^8.0.0"
   }
 }
